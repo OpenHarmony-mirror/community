@@ -2,10 +2,64 @@
 branches: {
   }
 fileChange:
-  /README.md:
-    newFile: !uuid 'd330b149b57e703bbd8eaa4854358219ad71c280'
+  /LICENSE:
+    newFile: !uuid '4a459866a57c25462afad17f3fe0b50d440da080'
     oldFile: null
-gitCommitId: !uuid '4ac63a76bfee6920dfb7d31b33dfed0274b6963b'
+  /README.md:
+    newFile: !uuid '52569395822e7bbb459b706c7d6c814dfa8a5cd4'
+    oldFile: !uuid 'd330b149b57e703bbd8eaa4854358219ad71c280'
+  /cla:
+    newFile: !uuid '4da72564e0796abd76a160019db077216798eaa8'
+    oldFile: null
+  /cla/.keep:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /cla/signing-cla-as-individual-contributors.md:
+    newFile: !uuid 'f50253379b47c36c8e221572c7bcf4be0d2f1393'
+    oldFile: null
+  /cla/signing-cla-as-legal-entity-contributors.md:
+    newFile: !uuid 'bef437162406278c05cc47447e19c2103ef2766d'
+    oldFile: null
+  /cla/签署CLA--个人独立贡献者.md:
+    newFile: !uuid '3270e883397957180a65271da123542ec42d5bfb'
+    oldFile: null
+  /cla/签署CLA--法律实体贡献者.md:
+    newFile: !uuid 'f36025fc4177aa534a30f780c9fa5f2b89b211b5'
+    oldFile: null
+  /logo:
+    newFile: !uuid 'ed363ef95faf8522324702dac287266898d181ba'
+    oldFile: null
+  /logo/.keep:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /logo/OpenHarmony Horizontal-01.jpg:
+    newFile: !uuid '1a7450ab3d2298608a77d064eb3538840775906d'
+    oldFile: null
+  /logo/OpenHarmony Horizontal-01.png:
+    newFile: !uuid '1e792b5fe2162764f184267684ae9f57481623a7'
+    oldFile: null
+  /logo/OpenHarmony Horizontal.ai:
+    newFile: !uuid 'f24e1c64dc2017eb10874ca8551dbb52d4a1fe1c'
+    oldFile: null
+  /logo/OpenHarmony Vertical-01.jpg:
+    newFile: !uuid '2f0c33c6afe763b3e3f0594fe8538700b3ffa817'
+    oldFile: null
+  /logo/OpenHarmony Vertical-01.png:
+    newFile: !uuid 'cbaba70394d2b7ae5a258bdcd05850c6e36ef080'
+    oldFile: null
+  /logo/OpenHarmony Vertical.ai:
+    newFile: !uuid 'd56bffc69c82a6d0bcb2d373d4eb1f648a4f2fff'
+    oldFile: null
+  /zh:
+    newFile: !uuid 'dcddbf5a2ec2c16d94b25f39295ad4d9f61896b3'
+    oldFile: null
+  /zh/.keep:
+    newFile: !uuid 'e69de29bb2d1d6434b8b29ae775ad8c2e48c5391'
+    oldFile: null
+  /zh/pmc.md:
+    newFile: !uuid '824a5cddbc5d221b8f8e2270c1d9878aefe42a04'
+    oldFile: null
+gitCommitId: !uuid '0bf9ee0c250368f5600f0d58b6d6f3d82d51991d'
 renames: {
   }
-revisionId: 1
+revisionId: 2
